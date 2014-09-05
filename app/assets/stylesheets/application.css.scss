@@ -11,6 +11,13 @@
  * file per style scope.
  *
  *= require_tree .
- *= require bootstrap-sass-official/assets/stylesheets/bootstrap.css
  *= require_self
  */
+
+/* COLORS.. */
+/* MIXINS... */
+/* FONT STACKS... */
+
+/* IMPORTS */
+
+@import 'bootstrap-sass-official/assets/stylesheets/bootstrap'
