@@ -1,2 +1,2 @@
-receta = angular.module('receta',[
+SpawnampingOctoNinja = angular.module('SpawncampingOctoNinja',[
 ])
